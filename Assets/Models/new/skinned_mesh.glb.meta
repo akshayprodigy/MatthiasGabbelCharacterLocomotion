@@ -1,0 +1,72 @@
+fileFormatVersion: 2
+guid: 9401a1e4cc18e491c8d50d4af5e42b1f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Denture
+    second: {fileID: 2100000, guid: d94226aab3c1649d5b95b05631be775a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyeris
+    second: {fileID: 2100000, guid: 6d4a6a080cb9946428c2a6e0324a58fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face cloth
+    second: {fileID: 2100000, guid: 0d22d1f3436ca4d499d095aeafa79865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feather
+    second: {fileID: 2100000, guid: 3aaf5114158654979b0425e3b47ae571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair cards
+    second: {fileID: 2100000, guid: a0a1220790bca4fcda7edfeefebeeb46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lower clothes
+    second: {fileID: 2100000, guid: 41f1dcc8b09014174837d160a73338d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sclera
+    second: {fileID: 2100000, guid: b5a5cf0e0ca854b7eb17dd3ff99e9571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: 6e3a7a95331b8439cb5a2fbe6e887f02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyebrowes
+    second: {fileID: 2100000, guid: 4dde3e447774d4cd891d9e1923db3155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyelashes
+    second: {fileID: 2100000, guid: 116bad1b2860e4d28988f19048877bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth
+    second: {fileID: 2100000, guid: 140d531a07f3d4dd4b68c7cc43f2d1ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upper clothes
+    second: {fileID: 2100000, guid: 4b975eae7b74544d99c8e02e382bf1eb, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 1
